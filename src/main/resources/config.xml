@@ -6,4 +6,6 @@
     <bean id="hello" class="java.lang.String">
         <constructor-arg value="hello"/>
     </bean>
+
+    <bean id="whiteship" class="com.psh10066.designpatterns._01_creational_patterns._03_abstract_factory._03_java.spring.ShipFactory" />
 </beans>
